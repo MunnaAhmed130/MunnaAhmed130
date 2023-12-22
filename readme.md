@@ -1,12 +1,12 @@
 [![Munna's GitHub Banner](./assets/githubBanner.png)](https://developermunnaahmed.com/)
 
-## Hey there 👋
+# Hey there 👋
 
 I'm Munna, a Junior web dev, self-taught and passionate about tech, designing, and creating responsive and user-friendly websites.
 
 Want to know more about me? [Check out my portfolio.](https://developermunnaahmed.com/)
 
-### Skills
+## Skills
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a>
@@ -35,7 +35,7 @@ Want to know more about me? [Check out my portfolio.](https://developermunnaahme
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" height="60" alt="Express" /></a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
