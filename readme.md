@@ -33,7 +33,7 @@ Want to know more about me? [Check out my portfolio.](https://developermunnaahme
 
 </p>
 
-[![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)](https://expressjs.com/)
+[![Express|200](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)](https://expressjs.com/)
 
 ## Badges
 
