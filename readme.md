@@ -25,15 +25,10 @@ Want to know more about me? [Check out my portfolio.](https://developermunnaahme
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="50"alt="Git" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="50" alt="NodeJS" /></a>
 </p>
-
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" height="50" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="60" height="50" alt="Firebase" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" height="50" alt="Express" /></a>
-
-
-
-[![Express|200](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)](https://expressjs.com/)
+[![Express|200px](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)](https://expressjs.com/)
 
 ## Badges
 
