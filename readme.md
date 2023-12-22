@@ -28,8 +28,8 @@ Want to know more about me? [Check out my portfolio.](https://developermunnaahme
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" height="50" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="60" height="50" alt="Firebase" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" height="50" alt="Express" /></a>
-[![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)]
-
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MunnaAhmed130/munnaahmed130/blob/main/assets/icons8-express-js-80.png" width="60" height="50" alt="Express" /></a>
+[https://github.com/MunnaAhmed130/munnaahmed130/blob/main/assets/icons8-express-js-80.png](https://github.com/MunnaAhmed130/munnaahmed130/blob/main/assets/icons8-express-js-80.png)
 ## Badges
 
 <b>My GitHub Stats</b>
